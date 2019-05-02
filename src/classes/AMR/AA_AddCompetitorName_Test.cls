@@ -2,7 +2,8 @@
  * Name:        -   AA_AddCompetitorName_Test
  * @description -   This is the test class for AA_AddCompetitorName Trigger to verify the code  while adding new Competitor Name.
  * @Author      -   Aslesha R K
- * modified comment
+ * modified comment 1
+ * modified comment 2
  */
 
 @isTest
